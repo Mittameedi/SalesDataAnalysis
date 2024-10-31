@@ -1,5 +1,5 @@
 
-# SalesDataIntegrityHub
+# SalesDataInsights
 A project focused on analyzing sales data quality, addressing key questions about data reliability and user behaviors. This repository contains SQL and Python code for exploring unstructured data, identifying quality issues, and answering targeted business questions to support Fetch’s insights.
 ## Files and Descriptions
 
