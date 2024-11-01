@@ -1,6 +1,6 @@
 
-# SalesDataInsights
-A project focused on analyzing sales data quality, addressing key questions about data reliability and user behaviors. This repository contains SQL and Python code for exploring unstructured data, identifying quality issues, and answering targeted business questions to support Fetch’s insights.
+# SalesDataAnalysis
+A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights.This repository contains SQL and Python code for exploring unstructured data and tablue for visualization
 ## Files and Descriptions
 
 [**Closed-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Closed-ended_Question1.sql): SQL query answering the question, What are the top 5 brands by receipts scanned among users 21 and over?  
