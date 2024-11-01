@@ -3,36 +3,36 @@
 A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights.This repository contains SQL and Python code for exploring unstructured data and tablue for visualization
 ## Files and Descriptions
 
-[**Closed-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Closed-ended_Question1.sql): SQL query answering the question, What are the top 5 brands by receipts scanned among users 21 and over?  
+[**Closed-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Closed-ended_Question1.sql): SQL query answering the question, What are the top 5 brands by receipts scanned among users 21 and over?  
 
 
-[**Closed-ended_Question2.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Closed-ended_Question2.sql): SQL query addressing the question, What are the top 5 brands by sales among users that have had their account for at least six months?  
+[**Closed-ended_Question2.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Closed-ended_Question2.sql): SQL query addressing the question, What are the top 5 brands by sales among users that have had their account for at least six months?  
 
 
-[**Closed-ended_Question3.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Closed-ended_Question3.sql): SQL query providing insights into the percentage of sales in the Health & Wellness category by generation.  
+[**Closed-ended_Question3.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Closed-ended_Question3.sql): SQL query providing insights into the percentage of sales in the Health & Wellness category by generation.  
 
 
-[**Open-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Open-ended_Question1.sql): SQL query identifying Fetch’s power users, based on assumptions about user activity.  
+[**Open-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Open-ended_Question1.sql): SQL query identifying Fetch’s power users, based on assumptions about user activity.  
 
 
-[**Open-ended_Question2.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Open-ended_Question2.sql): SQL query identifying the leading brand in the Dips & Salsa category.  
+[**Open-ended_Question2.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Open-ended_Question2.sql): SQL query identifying the leading brand in the Dips & Salsa category.  
 
 
-[**Open-ended_Question3.sql**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/Open-ended_Question3.sql): SQL query calculating Fetch’s growth percentage year over year, based on assumptions about user activity and sales data.  
+[**Open-ended_Question3.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Open-ended_Question3.sql): SQL query calculating Fetch’s growth percentage year over year, based on assumptions about user activity and sales data.  
 
 
-[**FR_DA.twbx**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/FR_DA.twbx): Tableau workbook visualizing key insights from the Fetch Rewards dataset. It is a raw TBWX file that can be downloaded for local use, or you can view it publicly [here](https://public.tableau.com/app/profile/meghana5763/viz/FR_Data_Visualization/UserSalesDistribution?publish=yes)
+[**FR_DA.twbx**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DA.twbx): Tableau workbook visualizing key insights from the Fetch Rewards dataset. It is a raw TBWX file that can be downloaded for local use, or you can view it publicly [here](https://public.tableau.com/app/profile/meghana5763/viz/FR_Data_Visualization/UserSalesDistribution?publish=yes)
 
-[**FR_DataAnalysis.ipynb**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/FR_DataAnalysis.ipynb): Python notebook used for data exploration, quality checks, and analysis of unstructured CSV data to identify trends and quality issues.  
-
-
-[**TransformedProducts.csv**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/TransformedProducts.csv): CSV file containing the transformed product data for analysis after data cleaning.  
+[**FR_DataAnalysis.ipynb**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DataAnalysis.ipynb): Python notebook used for data exploration, quality checks, and analysis of unstructured CSV data to identify trends and quality issues.  
 
 
-[**TransformedTransactions.csv**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/TransformedTransactions.csv): CSV file containing the transformed transaction data for analysis after data cleaning.  
+[**TransformedProducts.csv**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/TransformedProducts.csv): CSV file containing the transformed product data for analysis after data cleaning.  
 
 
-[**TransformedUsers.csv**](https://github.com/Mittameedi/SalesDataIntegrityHub/blob/main/TransformedUsers.csv): CSV file containing the transformed user data for analysis after data cleaning.  
+[**TransformedTransactions.csv**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/TransformedTransactions.csv): CSV file containing the transformed transaction data for analysis after data cleaning.  
+
+
+[**TransformedUsers.csv**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/TransformedUsers.csv): CSV file containing the transformed user data for analysis after data cleaning.  
 
 ## Email to Business Leader/Team
 
