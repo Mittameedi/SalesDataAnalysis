@@ -38,7 +38,7 @@ A project focused on analyzing sales data quality, addressing key questions abou
 
 **Subject:** Data Quality Findings and Insights
 
-Hi [Business Leader's Name],
+Hi,
 
 I’m Meghana from the Data Analytics team. In our recent analysis of the Users, Products, and Transactions datasets, we identified several data quality issues and notable insights. We also seek your assistance in understanding a few metrics currently in use.
 
