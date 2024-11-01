@@ -1,6 +1,6 @@
 
 # SalesDataAnalysis
-A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights.This repository contains SQL and Python code for exploring unstructured data and tablue for visualization
+A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights.This repository contains SQL and Python code for exploring unstructured data and tabluea for visualization
 ## Files and Descriptions
 
 [**Closed-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Closed-ended_Question1.sql): SQL query answering the question, What are the top 5 brands by receipts scanned among users 21 and over?  
@@ -21,9 +21,9 @@ A project focused on analyzing unstructured sales data, identifying issues, and 
 [**Open-ended_Question3.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Open-ended_Question3.sql): SQL query calculating Fetch’s growth percentage year over year, based on assumptions about user activity and sales data.  
 
 
-[**FR_DA.twbx**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DA.twbx): Tableau workbook visualizing key insights from the Fetch Rewards dataset. It is a raw TBWX file that can be downloaded for local use, or you can view it publicly [here](https://public.tableau.com/app/profile/meghana5763/viz/FR_Data_Visualization/UserSalesDistribution?publish=yes)
+[**FR_DA.twbx**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DA.twbx): Tableau workbook visualizing key insights from the datasets. It is a raw TBWX file that can be downloaded for local use, or you can view it publicly [here](https://public.tableau.com/app/profile/meghana5763/viz/FR_Data_Visualization/UserSalesDistribution?publish=yes)
 
-[**FR_DataAnalysis.ipynb**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DataAnalysis.ipynb): Python notebook used for data exploration, quality checks, and analysis of unstructured CSV data to identify trends and quality issues.  
+[**FR_DataAnalysis.ipynb**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/FR_DataAnalysis.ipynb): Python notebook used for data analysis to identify trends and quality issues.  
 
 
 [**TransformedProducts.csv**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/TransformedProducts.csv): CSV file containing the transformed product data for analysis after data cleaning.  
@@ -40,7 +40,7 @@ A project focused on analyzing unstructured sales data, identifying issues, and 
 
 Hi,
 
-I’m Meghana from the Data Analytics team. In our recent analysis of the Users, Products, and Transactions datasets, we identified several data quality issues and notable insights. We also seek your assistance in understanding a few metrics currently in use.
+I’m Meghana from the Data Analytics team. Our recent analysis of the Users, Products, and Transactions datasets identified several data quality issues and notable insights. And we would like to request your help understanding a few metrics currently in use.
 
 #### Data Quality Issues:
 1. Significant Missing Details and Duplicates:** All three datasets contain missing information and duplicate entries.
