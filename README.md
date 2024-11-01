@@ -1,6 +1,6 @@
 
 # SalesDataAnalysis
-A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights.This repository contains SQL and Python code for exploring unstructured data and tabluea for visualization
+A project focused on analyzing unstructured sales data, identifying issues, and deriving Insights. This repository contains SQL and Python code for exploring unstructured data and tableau for visualization
 ## Files and Descriptions
 
 [**Closed-ended_Question1.sql**](https://github.com/Mittameedi/SalesDataAnalysis/blob/main/Closed-ended_Question1.sql): SQL query answering the question, What are the top 5 brands by receipts scanned among users 21 and over?  
